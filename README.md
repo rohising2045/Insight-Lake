@@ -1,4 +1,4 @@
-# Insight Lake (Retail Data Engineering & Analytics Using Databricks)
+# Insight Lake (Retail Data Engineering & Analytics Using Databricks, Delta Lake)
 
 📌 Project Overview
 
