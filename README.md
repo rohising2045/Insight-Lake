@@ -67,15 +67,9 @@ The datasets contain information about customers, transactions, products, and ge
 - Product-wise Revenue and Profit
 - Regional Sales Performance
 
-📈 Power BI Dashboard
+ 📊 Power BI Dashboard
 
-The Power BI dashboard presents key performance indicators and interactive visualizations to help understand retail business performance.
-
-*Add your dashboard screenshots here.*
-
-Example:
-
-![Retail Dashboard](Screenshots/Screenshot 2026-10-21 054539.png)
+![Power BI Dashboard](<Screenshos/Screenshot 2026-10-21 054539.png>)
 
 💡 Key Learnings
 
