@@ -75,7 +75,7 @@ The Power BI dashboard presents key performance indicators and interactive visua
 
 Example:
 
-`![Retail Dashboard](images/retail_dashboard.png)`
+`![Retail Dashboard](Screenshots/retail_dashboard.png)`
 
 💡 Key Learnings
 
