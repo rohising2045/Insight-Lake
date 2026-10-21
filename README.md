@@ -67,9 +67,11 @@ The datasets contain information about customers, transactions, products, and ge
 - Product-wise Revenue and Profit
 - Regional Sales Performance
 
- 📊 Power BI Dashboard
+ 📊 Power BI Dashboard's
 
 ![Power BI Dashboard](<Screenshos/Screenshot 2026-10-21 054539.png>)
+
+
 
 💡 Key Learnings
 
