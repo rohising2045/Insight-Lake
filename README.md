@@ -69,7 +69,7 @@ The datasets contain information about customers, transactions, products, and ge
 
  📊 Power BI Dashboard's
 
-![Power BI Dashboard](<Screenshos/Screenshot 2026-10-21 054539.png>)
+![Power BI Dashboard](<Screenshots/Screenshot 2026-10-21 054539.png>)
 
 ![Power BI Dashboard](<Screenshots/MixCollage-21-Oct-2026-06-48-AM-7235.jpg>)
 
