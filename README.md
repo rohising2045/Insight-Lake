@@ -44,7 +44,7 @@ The project uses four synthetic datasets:
 | Customers | 150,000 |
 | Orders | 250,000 |
 | Products | 500 |
-| Regions | 4 |
+| Regions | 5 |
 
 The datasets contain information about customers, transactions, products, and geographical regions.
 
